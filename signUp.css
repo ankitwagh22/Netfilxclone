@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+}
+
+.header {
+    background-image: url(images/bg.jpg);
+    background-position: center center;
+    background-size: max(1200px, 100vw);
+    background-repeat: no-repeat;
+    height: 680px;
+    position: relative;
+}
+
+.header img {
+    padding: 27px;
+    margin-left: 180px;
+}
+
+.input_box {
+    background-color: black;
+    width: 350px;
+    height: 400px;
+}
